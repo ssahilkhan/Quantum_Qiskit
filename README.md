@@ -13,6 +13,15 @@
 
 - ✅ Bell State circuit (2-qubit entanglement)
 
+### Archived: Quantum Hello World
+**Folder:** `archive/quantum-projects/hello-world/`
+
+Merged from [Quantum_projects](https://github.com/ssahilkhan/Quantum_projects). A minimalist starter script exploring quantum computing concepts.
+
+**Tech:** Python, Qiskit
+
+---
+
 ## Future Scope
 
 - Implement quantum teleportation
